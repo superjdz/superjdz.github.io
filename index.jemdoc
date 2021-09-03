@@ -2,10 +2,10 @@
 ==Dongzi Jin 
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
-Msc.,\n [http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK Department of Electronic Information and Communication], \n[https://www.scut.edu.cn/new South China University of Technology]\n
+{}{img_left}{./bio.jpg}{alt text}{103}{160}{./bio.jpg}
+M.Sc. \n [http://www2.scut.edu.cn/ee/ Department of Electronic Information and Communication], \n[https://www.scut.edu.cn/new South China University of Technology]\n
 Guangzhou, China \n 
-E-mail: /jdzscut/ \[@\] gmail \[DOT\] com
+E-mail: /jdzscut/ \[@\] /gmail/ \[DOT\] /com/
 ~~~
 
 == About me
@@ -16,15 +16,28 @@ My research interests include
 - Reinforcement Learning
 - Intrusion Detection
 - Intelligent Reflecting Surface
-- Machine Learning
+- Federated Learning
 - Game Theory
 
 [research.html Find out more].
-=== Recent Publications 
+== Publications
 . Dongzi Jin, Yiqin Lu, et. al., "SwiftIDS: Real-time intrusion detection system based on LightGBM and parallel intrusion detection mechanism." Computers & Security, vol. 97, 2020. (rank: CCF B) \[[https://www.sciencedirect.com/science/article/pii/S0167404820302571 pdf]\]
 . Dongzi Jin, Yiqin Lu, et. al., "KC-IDS : Multi-layer Intrusion Detection System," 2020 International Conference on High Performance Big Data and Intelligent Systems (HPBD&IS), Shenzhen, China, 2020. \[[https://ieeexplore.ieee.org/abstract/document/9130573 pdf]\]
 
 
-[https://scholar.google.com/citations?user=Iss7CJwAAAAJ&hl=zh-CN Full list of publications].
-\n
-[cv.pdf A brief cv].
+[https://scholar.google.com/citations?user=Iss7CJwAAAAJ&hl=zh-CN Google Scholar].
+
+== Patents
+. A Real Time Intrusion Detection Method based on Gradient Boosting Tree Classification Model (/Chinese Patent, Authorized at 26th April 2021 /)
+
+== Skill
+- Python
+- Matlab
+- C
+- Linux
+- Latex
+
+== Academic services
+- Reviewer of IEEE transactions on Mobile Computing, 2021
+- Reviewer of IEEE Access, 2021
+- Reviewer of WCSP, 2020
